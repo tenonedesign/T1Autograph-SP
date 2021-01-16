@@ -18,7 +18,7 @@ let package = Package(
             url: "https://tenonedesign.com/media/T1Autograph-2.0.5.zip",
             // reset cache if this needs to change:
             // In Xcode's File menu, select 'Swift Packages' and then 'Reset Package Caches'
-            checksum: "2ac28d1bb5fa4b667aedcca6f549aaa4102c529776031b89825758679c047c43"
+            checksum: "f1d6a68016d71fba82cccd71b7bfa06b30dba440ff4e1fda961508e91a92a691"
         ),
     ]
 )
