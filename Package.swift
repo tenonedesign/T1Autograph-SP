@@ -15,10 +15,10 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "T1Autograph",
-            url: "https://tenonedesign.com/media/T1Autograph-2.0.5.zip",
+            url: "https://tenonedesign.com/media/T1Autograph-2.0.6.zip",
             // reset cache if this needs to change:
             // In Xcode's File menu, select 'Swift Packages' and then 'Reset Package Caches'
-            checksum: "cb334f71155247d7a7c7aab09ded62b1d56f8c15d7da43aab4c992e8dbb82a7b"
+            checksum: "c173903c5a3e6ec078d39910f49d0474e33fbe0373448909ab67fa95fecaf048"
         ),
     ]
 )
